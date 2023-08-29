@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Bəhruz
 - 👀 I’m interested in developing
-- 🌱 I’m currently learning Go
+- 🌱 I’m currently learning Design Patterns
 
 <!---
 guliyevdev/guliyevdev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
